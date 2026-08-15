@@ -1,0 +1,11 @@
+department_id,department_name,business_unit,budget
+D01,Engineering,Product & Technology,36000000
+D02,Product,Product & Technology,16000000
+D03,Sales,Revenue,24000000
+D04,Marketing,Revenue,12500000
+D05,Customer Success,Revenue,11000000
+D06,Field Operations,Operations,28000000
+D07,Finance,Corporate,8500000
+D08,People,Corporate,7500000
+D09,Legal,Corporate,6000000
+D10,Information Security,Product & Technology,9500000

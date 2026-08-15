@@ -1,0 +1,82 @@
+{
+  "summary": {
+    "purchase_requests": 8500,
+    "workflow_events": 44862,
+    "process_alignment_rate": 82.61,
+    "critical_rule_compliance": 92.42,
+    "high_severity_violation_rate": 9.0,
+    "exception_rate": 1.15,
+    "rework_rate": 5.14,
+    "average_process_drift_score": 4.56,
+    "median_approval_cycle_time_hours": 52.64,
+    "process_step_completion_rate": 97.25,
+    "total_violations": 2187,
+    "critical_violations": 855,
+    "high_violations": 964
+  },
+  "findings": [
+    {
+      "finding_id": "FND-01",
+      "title": "Engineering carries disproportionate Security-review drift",
+      "evidence": "Engineering represents 19.3% of purchase volume but 48.1% of Security-review violations (180 of 374).",
+      "root_cause_hypothesis": "Technology purchases use team-specific intake paths that do not consistently invoke the central Security gate.",
+      "recommendation": "Move Security eligibility evaluation to submission time and block PO creation when a required review is absent.",
+      "requirement": "FR-06",
+      "kpi": "Security-review compliance by department and category"
+    },
+    {
+      "finding_id": "FND-02",
+      "title": "The July update improved Vendor Validation",
+      "evidence": "Applicable Vendor Validation violations fell from 17.4% before the update to 5.7% after it, a decrease of 11.7 points.",
+      "root_cause_hypothesis": "NovaProcure's enforced vendor gate reduced a control gap that had been optional in the legacy workflow.",
+      "recommendation": "Retain the vendor gate and accelerate retirement of remaining legacy routing.",
+      "requirement": "FR-11",
+      "kpi": "Vendor Validation violation rate by source system"
+    },
+    {
+      "finding_id": "FND-03",
+      "title": "Urgent routing introduced a Procurement side effect",
+      "evidence": "Procurement-related violation incidence among urgent requests changed from 3.7% before the update to 10.4% after it.",
+      "root_cause_hypothesis": "The new fast-track branch prioritizes cycle time but does not always rejoin the mandatory Procurement gate.",
+      "recommendation": "Add a non-bypassable Procurement eligibility check to urgent routing and regression-test the branch.",
+      "requirement": "FR-12",
+      "kpi": "Urgent-request Procurement compliance"
+    },
+    {
+      "finding_id": "FND-04",
+      "title": "Austin shows a legacy travel-threshold adoption gap",
+      "evidence": "After July, travel requests between $5,000 and $7,500 had a 57.1% Finance-rule violation rate in Austin versus 12.5% elsewhere.",
+      "root_cause_hypothesis": "A material share of Austin traffic remains on ProcureFlow Classic, which still applies the former $7,500 threshold.",
+      "recommendation": "Migrate Austin routing and add an effective-date configuration check to deployment validation.",
+      "requirement": "FR-13",
+      "kpi": "Post-change compliance by office and source system"
+    },
+    {
+      "finding_id": "FND-05",
+      "title": "Marketing uses exceptions at an elevated rate",
+      "evidence": "Marketing's exception rate is 2.7% compared with 1.2% company-wide.",
+      "root_cause_hypothesis": "Late campaign intake and vendor timing pressure make competitive-bid exceptions a normalized workaround.",
+      "recommendation": "Introduce earlier campaign procurement intake and require structured exception reason codes.",
+      "requirement": "FR-08",
+      "kpi": "Exception and undocumented-exception rates by department"
+    },
+    {
+      "finding_id": "FND-06",
+      "title": "Segregation-of-duties signals concentrate in Revenue",
+      "evidence": "Revenue accounts for 67.9% of self-approval indicators (129 of 190).",
+      "root_cause_hypothesis": "Delegated approver configuration in high-velocity commercial teams permits requester/approver identity overlap.",
+      "recommendation": "Enforce requester-versus-approver validation and audit delegated approval groups.",
+      "requirement": "FR-07",
+      "kpi": "Self-approval indicators by business unit"
+    },
+    {
+      "finding_id": "FND-07",
+      "title": "Near-threshold clusters warrant human review",
+      "evidence": "The indicator logic identified 12 employee/vendor clusters totaling $340,538 across flagged transactions.",
+      "root_cause_hypothesis": "Clusters may reflect phased delivery, recurring purchases, budget timing, or threshold avoidance; the data alone cannot establish intent.",
+      "recommendation": "Route indicators to a documented, context-aware review process; do not automate adverse conclusions.",
+      "requirement": "FR-10",
+      "kpi": "Indicator disposition and false-positive rate"
+    }
+  ]
+}

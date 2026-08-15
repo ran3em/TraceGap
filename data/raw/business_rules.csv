@@ -1,0 +1,19 @@
+rule_id,rule_name,rule_description,condition,required_step,severity,effective_date,policy_owner
+RULE-001,Manager approval,"Purchases of $1,000 or more require manager approval.",amount >= 1000,Manager Approval,Low,2025-01-01,Finance Operations
+RULE-002,Finance approval,"Purchases above $10,000 require Finance approval.",amount > 10000,Finance Approval,High,2025-01-01,CFO
+RULE-003,Director approval,"Purchases above $25,000 require Director approval.",amount > 25000,Director Approval,High,2025-01-01,CFO
+RULE-004,Software security review,Software and AI service purchases require Security review.,"purchase_type IN ('Software','AI Services')",Security Review,Critical,2025-01-01,Information Security
+RULE-005,High-value contract review,"Contracts above $50,000 require Legal review.",contract_required AND amount > 50000,Legal Review,Critical,2025-01-01,Legal
+RULE-006,Unapproved vendor review,Unapproved vendors require Procurement review.,approved_vendor = false,Procurement Review,High,2025-01-01,VP Procurement
+RULE-007,Competitive bid evidence,"Purchases above $20,000 require competitive bids or an approved exception.",amount > 20000,Competitive Bid Confirmed,High,2025-01-01,VP Procurement
+RULE-008,Approval authorization,Approvers may not authorize purchases above their approval limit.,approval amount <= performer approval_limit,AUTHORIZED_APPROVER,Critical,2025-01-01,Internal Audit
+RULE-009,Segregation of duties,The requester may not approve their own purchase.,approver != requester,NO_SELF_APPROVAL,Critical,2025-01-01,Internal Audit
+RULE-010,Vendor validation,Unapproved or high-risk vendors require Vendor Validation.,approved_vendor = false OR vendor_risk = 'High',Vendor Validation,High,2025-01-01,Vendor Management
+RULE-011,Documented exception,Every approved exception requires supporting documentation.,exception used,DOCUMENTED_EXCEPTION,High,2025-01-01,Internal Audit
+RULE-012,PO before payment,A purchase order must be created before payment is authorized.,PO timestamp < payment timestamp,PO_BEFORE_PAYMENT,Critical,2025-01-01,Finance Operations
+RULE-013,International vendor legal review,High-risk international vendors require Legal review.,country != 'United States' AND vendor_risk = 'High',Legal Review,High,2025-01-01,Legal
+RULE-014,High-risk security review,All high-risk technology vendors require Security review.,vendor_risk = 'High' AND technology purchase,Security Review,Critical,2025-01-01,Information Security
+RULE-015,Contractor procurement review,Contractor engagements require Procurement review.,purchase_type = 'Contractor',Procurement Review,High,2025-01-01,VP Procurement
+RULE-016,Travel finance threshold,"Travel requires Finance approval above $7,500 before July and $5,000 after the system update.",travel threshold by effective date,Finance Approval,Medium,2025-01-01,Finance Operations
+RULE-017,Urgent purchase rationale,Urgent purchases require a documented exception rationale.,urgency = 'Urgent',DOCUMENTED_URGENCY,Medium,2025-01-01,Finance Operations
+RULE-018,Equipment dual control,"Equipment purchases above $30,000 require both Finance and Procurement review.",purchase_type = 'Equipment' AND amount > 30000,DUAL_CONTROL,High,2025-01-01,Finance Operations

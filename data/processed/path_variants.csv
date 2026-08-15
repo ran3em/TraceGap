@@ -1,0 +1,261 @@
+observed_path,request_count,total_value,average_cycle_hours,departments,categories,share_pct
+Submitted → Manager → PO Created → Payment,1840,7654913.62,37.893472826086956,10,7,21.64705882352941
+Submitted → Manager → Security → PO Created → Payment,1160,5336067.85,57.98172413793104,10,3,13.647058823529413
+Submitted → Manager → Vendor Validation → Procurement → PO Created → Payment,609,2571868.59,63.24922824302134,10,7,7.1647058823529415
+Submitted → Manager → Finance → PO Created → Payment,449,6038796.06,51.57957683741648,10,7,5.2823529411764705
+Submitted → Manager → Procurement → PO Created → Payment,345,1776493.82,52.21524637681159,10,5,4.0588235294117645
+Submitted → PO Created → Payment,304,270331.19,25.11194078947368,10,6,3.5764705882352943
+Submitted → Manager → Security → Finance → PO Created → Payment,260,3609527.61,70.11053846153847,10,3,3.058823529411765
+Submitted → Cancelled,253,2058976.0,12.373399209486164,10,7,2.9764705882352938
+Submitted → Manager → Vendor Validation → Security → Procurement → PO Created → Payment,192,891108.92,81.35041666666667,10,3,2.2588235294117647
+Submitted → Manager → Vendor Validation → Procurement → Finance → PO Created → Payment,176,2445353.97,77.37744318181818,10,7,2.070588235294118
+Submitted → Manager → Vendor Validation → Security → PO Created → Payment,170,801368.78,72.17258823529411,10,3,2.0
+Submitted → Manager → Procurement → Finance → PO Created → Payment,155,2217902.82,62.7141935483871,10,5,1.8235294117647058
+Submitted → Manager → Vendor Validation → Legal → PO Created → Payment,131,628884.51,68.97404580152671,10,4,1.5411764705882351
+Submitted → Manager → Vendor Validation → PO Created → Payment,125,527554.71,53.167199999999994,10,7,1.4705882352941175
+Submitted → Manager → Rejected,112,497047.63,27.059285714285714,10,7,1.3176470588235294
+Submitted → Manager → Director → Bid Confirmed → Finance → PO Created → Payment,105,3711819.12,76.3107619047619,10,7,1.2352941176470587
+Submitted → Security → PO Created → Payment,88,81340.15,45.16613636363636,10,2,1.035294117647059
+Submitted → Vendor Validation → Procurement → PO Created → Payment,84,66132.56,53.57678571428571,10,7,0.9882352941176471
+Submitted → Manager → Vendor Validation → Legal → Procurement → PO Created → Payment,74,296756.06,76.90513513513513,10,4,0.8705882352941177
+Submitted → Manager → Returned → Resubmitted → PO Created → Payment,74,289074.88,70.68864864864865,9,6,0.8705882352941177
+Submitted → Manager → Director → Security → Bid Confirmed → Finance → PO Created → Payment,70,2422596.81,94.14028571428571,10,2,0.823529411764706
+Submitted → Manager → Security → Rejected,69,310323.19,49.86260869565217,10,2,0.8117647058823529
+Submitted → Manager → Bid Confirmed → Finance → PO Created → Payment,68,1517660.28,68.36,10,7,0.8
+Submitted → Manager → Vendor Validation → Security → Finance → PO Created → Payment,56,757600.26,77.89125,10,3,0.6588235294117647
+Submitted → Manager → Vendor Validation → Security → Legal → Procurement → PO Created → Payment,54,265617.65,94.63407407407406,10,2,0.6352941176470588
+Submitted → Manager → Vendor Validation → Security → Procurement → Finance → PO Created → Payment,54,743564.3,92.34333333333333,10,3,0.6352941176470588
+Submitted → Manager → Returned → Resubmitted → Procurement → PO Created → Payment,50,254131.42,84.961,10,2,0.5882352941176471
+Submitted → Manager → Director → Procurement → Bid Confirmed → Finance → PO Created → Payment,49,1781733.5,81.45489795918367,10,3,0.5764705882352941
+Submitted → Manager → Returned → Resubmitted → Security → PO Created → Payment,47,212250.22,92.74085106382978,9,3,0.5529411764705883
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Procurement → PO Created → Payment,47,178958.27,93.85510638297873,10,5,0.5529411764705883
+Submitted → Manager → Director → Vendor Validation → Procurement → Bid Confirmed → Finance → PO Created → Payment,44,1596966.15,105.78772727272727,9,7,0.5176470588235295
+Submitted → Manager → Vendor Validation → Procurement → Rejected,40,182306.59,51.3205,9,7,0.4705882352941176
+Submitted → Manager → Vendor Validation → Legal → Finance → PO Created → Payment,40,530587.95,87.965,9,2,0.4705882352941176
+Submitted → Manager → Security → Bid Confirmed → Finance → PO Created → Payment,34,780446.23,85.45911764705883,10,2,0.4
+Submitted → Manager → Vendor Validation → Finance → PO Created → Payment,28,358382.99,61.64,9,6,0.32941176470588235
+Submitted → Manager → Finance → Rejected,28,377959.62,39.21071428571429,10,5,0.32941176470588235
+Submitted → Manager → Procurement → Bid Confirmed → Finance → PO Created → Payment,26,586310.59,74.87038461538462,9,2,0.3058823529411765
+Submitted → Manager → Director → Legal → Bid Confirmed → Finance → PO Created → Payment,26,1927586.05,98.14307692307692,9,5,0.3058823529411765
+Submitted → Vendor Validation → PO Created → Payment,24,15913.55,38.089999999999996,9,3,0.2823529411764706
+Submitted → Manager → Security → Procurement → PO Created → Payment,23,98966.34,78.69608695652174,10,3,0.27058823529411763
+Submitted → Manager → Director → Legal → Procurement → Bid Confirmed → Finance → PO Created → Payment,20,1468401.7,106.87650000000001,9,1,0.2352941176470588
+Submitted → Manager → Vendor Validation → Procurement → Bid Confirmed → Finance → PO Created → Payment,20,480563.95,94.2365,8,3,0.2352941176470588
+Submitted → Manager → Returned → Resubmitted → Finance → PO Created → Payment,20,255518.69,88.5525,8,5,0.2352941176470588
+Submitted → Manager → Vendor Validation → Legal → Procurement → Finance → PO Created → Payment,19,233697.69999999998,93.19473684210527,7,3,0.2235294117647059
+Submitted → Manager → Security → Finance → Rejected,17,239298.04,66.29764705882353,8,2,0.2
+Submitted → Rejected,17,14645.31,17.093529411764706,8,4,0.2
+Submitted → Vendor Validation → Legal → PO Created → Payment,17,12599.0,57.27411764705882,9,4,0.2
+Submitted → Manager → Procurement → Rejected,16,84804.03,32.6,9,2,0.18823529411764706
+Submitted → Manager → Returned → Resubmitted → Procurement → Finance → PO Created → Payment,16,230594.59,96.16875,6,1,0.18823529411764706
+Submitted → Manager → Director → Vendor Validation → Legal → Bid Confirmed → Finance → PO Created → Payment,15,619370.0,102.10799999999999,7,2,0.17647058823529413
+Submitted → Manager → Director → Vendor Validation → Legal → Procurement → Bid Confirmed → Finance → PO Created → Payment,15,1112734.94,117.94333333333334,7,3,0.17647058823529413
+Submitted → Vendor Validation → Legal → Procurement → PO Created → Payment,15,9737.36,70.212,10,2,0.17647058823529413
+Submitted → Manager → Legal → PO Created → Payment,14,79776.52,61.57714285714286,8,2,0.16470588235294117
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Procurement → Finance → PO Created → Payment,14,206054.15,104.18642857142856,7,4,0.16470588235294117
+Submitted → Manager → Returned → Resubmitted → Director → Procurement → Bid Confirmed → Finance → PO Created → Payment,14,456761.91,132.8542857142857,6,2,0.16470588235294117
+Submitted → Vendor Validation → Security → PO Created → Payment,13,11362.279999999999,53.81923076923077,8,3,0.15294117647058825
+Submitted → Manager → Procurement → Finance → Rejected,13,188002.75,64.9176923076923,8,1,0.15294117647058825
+Submitted → Procurement → PO Created → Payment,13,11949.43,32.440769230769234,6,4,0.15294117647058825
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Security → PO Created → Payment,13,59458.83,108.22923076923077,6,3,0.15294117647058825
+Submitted → Manager → Director → Exception → Finance → PO Created → Payment,12,435633.58,83.63333333333334,7,4,0.1411764705882353
+Submitted → Manager → Director → Security → Legal → Bid Confirmed → Finance → PO Created → Payment,12,822468.13,130.75666666666666,8,2,0.1411764705882353
+Submitted → Manager → Payment → PO Created,12,51630.45,48.06166666666667,7,5,0.1411764705882353
+Submitted → Manager → Vendor Validation → Security → Procurement → Bid Confirmed → Finance → PO Created → Payment,11,254339.75,96.60181818181817,7,3,0.12941176470588237
+Submitted → PO Created → Returned → Resubmitted → Payment,11,6090.51,57.93818181818181,7,2,0.12941176470588237
+Submitted → Manager → Returned → Resubmitted → Security → Finance → PO Created → Payment,11,153223.16999999998,104.3490909090909,6,2,0.12941176470588237
+Submitted → Manager → Vendor Validation → Procurement → Finance → Rejected,11,138535.88,72.55181818181819,6,4,0.12941176470588237
+Submitted → Manager → Security → Payment → PO Created,11,55076.56,51.67909090909091,6,1,0.12941176470588237
+Submitted → Manager → Vendor Validation → Security → Procurement → Rejected,10,38815.71,69.687,6,3,0.1176470588235294
+Submitted → Manager → Vendor Validation → Legal → Bid Confirmed → Finance → PO Created → Payment,10,222448.34,111.751,5,2,0.1176470588235294
+Submitted → Manager → Vendor Validation → Rejected,9,24293.32,39.05888888888889,6,4,0.10588235294117646
+Submitted → Vendor Validation → Security → Procurement → PO Created → Payment,9,15846.380000000001,72.41,7,3,0.10588235294117646
+Submitted → Manager → Director → Finance → PO Created → Payment,9,361169.91000000003,52.73333333333333,6,5,0.10588235294117646
+Submitted → Manager → Director → Security → Exception → Finance → PO Created → Payment,9,312789.31,103.00888888888888,5,2,0.10588235294117646
+Submitted → Manager → Director → Vendor Validation → Security → Procurement → Bid Confirmed → Finance → PO Created → Payment,8,253650.5,117.87,6,3,0.09411764705882353
+Submitted → Manager → Vendor Validation → Security → Bid Confirmed → Finance → PO Created → Payment,8,175730.16,93.14,5,3,0.09411764705882353
+Submitted → Manager → Security → Legal → Procurement → PO Created → Payment,8,28745.3,106.4375,6,2,0.09411764705882353
+Submitted → Manager → Exception → Finance → PO Created → Payment,8,178024.93,59.66,6,4,0.09411764705882353
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → PO Created → Payment,8,41488.26,86.5575,5,4,0.09411764705882353
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Legal → PO Created → Payment,8,44375.22,98.39625,5,2,0.09411764705882353
+Submitted → Manager → Vendor Validation → Security → Rejected,8,37871.43,57.15625,6,3,0.09411764705882353
+Submitted → Manager → Returned → Resubmitted → Director → Vendor Validation → Procurement → Bid Confirmed → Finance → PO Created → Payment,8,268423.71,135.8025,7,4,0.09411764705882353
+Submitted → Manager → Vendor Validation → Legal → Rejected,7,35061.31,52.86428571428571,5,2,0.08235294117647059
+Submitted → Manager → Director → Vendor Validation → Bid Confirmed → Finance → PO Created → Payment,7,237996.91,84.89714285714285,4,4,0.08235294117647059
+Submitted → Manager → Bid Confirmed → Finance → Rejected,7,198576.88999999998,47.705714285714286,3,4,0.08235294117647059
+Submitted → Manager → Procurement → Exception → Finance → PO Created → Payment,7,195528.37,58.34285714285714,4,3,0.08235294117647059
+Submitted → Manager → Director → Procurement → Exception → Finance → PO Created → Payment,7,233893.26,88.05428571428571,5,1,0.08235294117647059
+Submitted → Manager → Finance → Payment → PO Created,6,76077.56999999999,37.211666666666666,5,4,0.07058823529411765
+Submitted → Manager → Returned → Resubmitted → Rejected,6,19930.519999999997,51.48833333333334,6,3,0.07058823529411765
+Submitted → Manager → Vendor Validation → Security → Legal → Procurement → Finance → PO Created → Payment,6,88792.36,109.54166666666667,5,2,0.07058823529411765
+Submitted → Manager → Legal → Procurement → PO Created → Payment,6,11982.66,71.80666666666667,4,2,0.07058823529411765
+Submitted → Manager → Director → Bid Confirmed → Finance → Rejected,5,169734.56,54.824,5,3,0.0588235294117647
+Submitted → Manager → Director → Vendor Validation → Security → Bid Confirmed → Finance → PO Created → Payment,5,165639.33000000002,121.69200000000001,4,3,0.0588235294117647
+Submitted → Manager → Director → Vendor Validation → Procurement → Exception → Finance → PO Created → Payment,5,144307.37,105.18200000000002,2,3,0.0588235294117647
+Submitted → Manager → Vendor Validation → Security → Procurement → Finance → Rejected,5,62521.47,85.502,5,2,0.0588235294117647
+Submitted → Legal → Procurement → PO Created → Payment,5,4082.83,51.407999999999994,4,2,0.0588235294117647
+Submitted → Manager → Director → Security → Bid Confirmed → Finance → Rejected,5,174629.41999999998,78.086,4,2,0.0588235294117647
+Submitted → Security → Rejected,5,4360.89,19.332,5,3,0.0588235294117647
+Submitted → Manager → Legal → Finance → PO Created → Payment,5,67102.49,68.00399999999999,4,2,0.0588235294117647
+Submitted → Manager → Vendor Validation → Security → Legal → PO Created → Payment,5,25384.739999999998,102.91199999999999,3,2,0.0588235294117647
+Submitted → Manager → Director → Bid Confirmed → PO Created → Payment,5,184836.52,54.346000000000004,3,3,0.0588235294117647
+Submitted → Vendor Validation → Procurement → Rejected,5,3046.77,33.878,3,3,0.0588235294117647
+Submitted → Manager → Vendor Validation → Procurement → Payment → PO Created,5,16566.02,77.044,4,2,0.0588235294117647
+Submitted → Manager → Director → Legal → Exception → Finance → PO Created → Payment,4,336198.69,99.01,4,3,0.047058823529411764
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Security → Legal → Procurement → PO Created → Payment,4,10779.95,134.79500000000002,3,2,0.047058823529411764
+Submitted → Manager → Returned → Resubmitted → Procurement → Rejected,4,24528.54,70.215,4,1,0.047058823529411764
+Submitted → Manager → Director → Vendor Validation → Security → Legal → Procurement → Bid Confirmed → Finance → PO Created → Payment,4,243604.22999999998,129.3475,4,3,0.047058823529411764
+Submitted → Manager → Returned → Resubmitted → Procurement → Bid Confirmed → Finance → PO Created → Payment,4,117367.85,108.72749999999999,3,1,0.047058823529411764
+Submitted → Manager → Director → Procurement → Bid Confirmed → PO Created → Payment,4,148214.43,98.1675,3,1,0.047058823529411764
+Submitted → Manager → Director → Vendor Validation → Security → Legal → Bid Confirmed → Finance → PO Created → Payment,4,253587.83000000002,161.015,3,3,0.047058823529411764
+Submitted → Manager → Director → Legal → Finance → PO Created → Payment,4,217228.28,49.707499999999996,4,3,0.047058823529411764
+Submitted → Manager → Vendor Validation → Legal → Finance → Rejected,4,58405.24,72.65,4,2,0.047058823529411764
+Submitted → Manager → Vendor Validation → Legal → Payment → PO Created,4,16823.2,58.21,3,2,0.047058823529411764
+Submitted → Manager → Returned → Resubmitted → Bid Confirmed → Finance → PO Created → Payment,4,88689.03,109.425,3,3,0.047058823529411764
+Submitted → Manager → Vendor Validation → Security → Legal → Procurement → Rejected,4,15784.81,81.6425,2,1,0.047058823529411764
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Legal → Procurement → PO Created → Payment,4,15707.25,112.93,3,2,0.047058823529411764
+Submitted → Vendor Validation → Security → Legal → Procurement → PO Created → Payment,4,2765.99,73.2375,3,2,0.047058823529411764
+Submitted → Finance → PO Created → Payment,4,46531.799999999996,34.01,2,3,0.047058823529411764
+Submitted → Manager → Security → Exception → Finance → PO Created → Payment,3,68045.3,80.20666666666666,3,1,0.03529411764705882
+Submitted → Manager → Vendor Validation → Procurement → Finance → Payment → PO Created,3,33486.619999999995,102.25999999999999,3,3,0.03529411764705882
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Finance → PO Created → Payment,3,32531.87,103.96,2,2,0.03529411764705882
+Submitted → Manager → Returned → Resubmitted → Security → Rejected,3,14788.11,108.95333333333333,2,2,0.03529411764705882
+Submitted → Manager → Director → Vendor Validation → Procurement → Bid Confirmed → PO Created → Payment,3,91707.28,111.72666666666667,2,2,0.03529411764705882
+Submitted → Manager → Returned → Resubmitted → Procurement → Finance → Rejected,3,37327.46,64.82333333333334,3,1,0.03529411764705882
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Security → Procurement → PO Created → Payment,3,12679.259999999998,112.73,3,2,0.03529411764705882
+Submitted → Manager → Security → Legal → Procurement → Finance → PO Created → Payment,3,48150.24,85.81333333333333,3,2,0.03529411764705882
+Submitted → Manager → Security → Bid Confirmed → Finance → Rejected,3,77205.33,81.95666666666666,3,2,0.03529411764705882
+Submitted → Security → Finance → PO Created → Payment,3,39266.32,57.79,2,1,0.03529411764705882
+Submitted → Manager → Vendor Validation → Procurement → Bid Confirmed → Finance → Rejected,3,66143.18,91.33,3,2,0.03529411764705882
+Submitted → Manager → Vendor Validation → Legal → Procurement → Finance → Rejected,3,33238.479999999996,78.15666666666668,3,2,0.03529411764705882
+Submitted → Manager → Director → Security → Legal → Exception → Finance → PO Created → Payment,3,274074.8,108.69666666666667,3,2,0.03529411764705882
+Submitted → Manager → Vendor Validation → Legal → Procurement → Rejected,3,12336.49,55.70666666666667,3,2,0.03529411764705882
+Submitted → Manager → Returned → Resubmitted → Director → Bid Confirmed → Finance → PO Created → Payment,3,101096.19,114.68666666666667,2,2,0.03529411764705882
+Submitted → Manager → Vendor Validation → Legal → Procurement → Bid Confirmed → Finance → PO Created → Payment,3,86286.37,130.16666666666666,2,1,0.03529411764705882
+Submitted → Manager → Vendor Validation → Payment → PO Created,3,21630.08,63.75,3,2,0.03529411764705882
+Submitted → Manager → Director → Vendor Validation → Security → Exception → Finance → PO Created → Payment,3,102982.48999999999,86.10333333333334,2,2,0.03529411764705882
+Submitted → Vendor Validation → Returned → Resubmitted → Legal → Procurement → PO Created → Payment,3,1736.51,93.12333333333333,1,1,0.03529411764705882
+Submitted → Procurement → Finance → PO Created → Payment,3,41828.11,60.776666666666664,3,1,0.03529411764705882
+Submitted → Payment → PO Created,3,1683.98,15.37,3,2,0.03529411764705882
+Submitted → Manager → Bid Confirmed → PO Created → Payment,3,78171.28,52.60333333333333,2,3,0.03529411764705882
+Submitted → Manager → Vendor Validation → Procurement → Exception → Finance → PO Created → Payment,3,62066.78,83.36333333333333,3,3,0.03529411764705882
+Submitted → Manager → Security → Legal → Bid Confirmed → Finance → PO Created → Payment,2,70795.16,120.185,2,2,0.023529411764705882
+Submitted → Manager → Vendor Validation → Security → Legal → Procurement → Bid Confirmed → Finance → PO Created → Payment,2,45526.81,102.21000000000001,1,2,0.023529411764705882
+Submitted → Manager → Security → Finance → Payment → PO Created,2,27112.34,52.11,2,1,0.023529411764705882
+Submitted → Manager → Director → Procurement → Finance → PO Created → Payment,2,60586.05,119.56,2,1,0.023529411764705882
+Submitted → Manager → Vendor Validation → Bid Confirmed → Finance → PO Created → Payment,2,49216.85,86.29,2,2,0.023529411764705882
+Submitted → Manager → Director → Procurement → Finance → Rejected,2,72797.57,28.765,2,1,0.023529411764705882
+Submitted → Manager → Director → Vendor Validation → Exception → Finance → PO Created → Payment,2,73791.77,103.19,2,2,0.023529411764705882
+Submitted → Manager → Vendor Validation → Legal → Procurement → Exception → Finance → PO Created → Payment,2,44589.59,116.93,2,1,0.023529411764705882
+Submitted → Manager → Vendor Validation → Security → Finance → Rejected,2,32004.699999999997,58.245000000000005,1,1,0.023529411764705882
+Submitted → Manager → Security → Procurement → Finance → PO Created → Payment,2,27413.07,75.38499999999999,1,2,0.023529411764705882
+Submitted → Manager → Legal → Bid Confirmed → Finance → PO Created → Payment,2,107855.11,93.03,1,1,0.023529411764705882
+Submitted → Manager → Director → Security → Bid Confirmed → PO Created → Payment,2,86287.8,81.33,2,1,0.023529411764705882
+Submitted → Manager → Vendor Validation → Legal → Exception → Finance → PO Created → Payment,2,48483.350000000006,68.135,2,1,0.023529411764705882
+Submitted → Manager → Director → Legal → Procurement → Exception → Finance → PO Created → Payment,2,119790.29999999999,84.11,2,1,0.023529411764705882
+Submitted → Manager → Vendor Validation → Finance → Rejected,2,34645.22,70.46000000000001,2,2,0.023529411764705882
+Submitted → Manager → Procurement → Bid Confirmed → Finance → Rejected,2,44839.2,82.75,2,1,0.023529411764705882
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Procurement → Bid Confirmed → Finance → PO Created → Payment,2,45671.46000000001,114.84,2,1,0.023529411764705882
+Submitted → Manager → Director → Vendor Validation → Legal → Procurement → Bid Confirmed → PO Created → Payment,2,234559.66999999998,78.095,2,1,0.023529411764705882
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Legal → Rejected,2,11300.970000000001,73.63,2,1,0.023529411764705882
+Submitted → Manager → Director → Vendor Validation → Security → Legal → Exception → Finance → PO Created → Payment,2,133536.94,120.71,2,2,0.023529411764705882
+Submitted → Security → Returned → Resubmitted → PO Created → Payment,2,1042.69,110.0,2,1,0.023529411764705882
+Submitted → Vendor Validation → Returned → Resubmitted → Procurement → PO Created → Payment,2,1498.81,96.94,2,1,0.023529411764705882
+Submitted → Manager → Bid Confirmed → Finance → Payment → PO Created,2,45651.259999999995,64.505,2,2,0.023529411764705882
+Submitted → Vendor Validation → Returned → Resubmitted → Security → PO Created → Payment,2,1165.27,112.205,2,1,0.023529411764705882
+Submitted → Manager → Returned → Resubmitted → Procurement → Exception → Finance → PO Created → Payment,2,47594.89,102.49000000000001,1,1,0.023529411764705882
+Submitted → Manager → Director → Exception → Finance → Rejected,2,79249.68,57.894999999999996,2,1,0.023529411764705882
+Submitted → Manager → Returned → Resubmitted → Security → Procurement → PO Created → Payment,2,2210.22,63.879999999999995,2,2,0.023529411764705882
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Legal → Finance → PO Created → Payment,2,32149.03,137.16,2,2,0.023529411764705882
+Submitted → Manager → Vendor Validation → Security → Procurement → Exception → Finance → PO Created → Payment,2,45378.81,99.75999999999999,2,1,0.023529411764705882
+Submitted → Manager → Returned → Resubmitted → Security → Finance → Rejected,2,34090.79,121.82,2,2,0.023529411764705882
+Submitted → Manager → Legal → Procurement → Finance → PO Created → Payment,2,25869.15,100.995,1,1,0.023529411764705882
+Submitted → Manager → Vendor Validation → Security → Legal → Rejected,2,10047.11,80.96000000000001,2,1,0.023529411764705882
+Submitted → Manager → Director → Vendor Validation → Security → Procurement → Bid Confirmed → Finance → Rejected,2,72496.56,126.945,2,2,0.023529411764705882
+Submitted → Manager → Director → Vendor Validation → Legal → Procurement → Exception → Finance → PO Created → Payment,2,121826.68,86.0,2,1,0.023529411764705882
+Submitted → Manager → Director → Legal → Bid Confirmed → PO Created → Payment,2,139470.27000000002,105.03999999999999,2,2,0.023529411764705882
+Submitted → Manager → Director → Vendor Validation → Legal → Procurement → Finance → PO Created → Payment,2,155767.6,104.0,2,2,0.023529411764705882
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Procurement → Rejected,2,8451.07,93.815,2,1,0.023529411764705882
+Submitted → Director → Procurement → Bid Confirmed → Finance → PO Created → Payment,1,33117.28,86.45,1,1,0.011764705882352941
+Submitted → Vendor Validation → Payment → PO Created,1,465.73,30.0,1,1,0.011764705882352941
+Submitted → Vendor Validation → Procurement → Bid Confirmed → Finance → PO Created → Payment,1,24799.62,103.93,1,1,0.011764705882352941
+Submitted → Director → Legal → Bid Confirmed → Finance → PO Created → Payment,1,91759.92,78.3,1,1,0.011764705882352941
+Submitted → Vendor Validation → Rejected,1,120.0,44.4,1,1,0.011764705882352941
+Submitted → Director → Security → Bid Confirmed → Finance → PO Created → Payment,1,28230.37,101.67,1,1,0.011764705882352941
+Submitted → Manager → Director → Procurement → Bid Confirmed → Finance → Rejected,1,43841.93,59.28,1,1,0.011764705882352941
+Submitted → Vendor Validation → Returned → Resubmitted → Legal → PO Created → Payment,1,8221.42,66.6,1,1,0.011764705882352941
+Submitted → Manager → Vendor Validation → Security → Legal → Procurement → Payment → PO Created,1,4199.67,108.49,1,1,0.011764705882352941
+Submitted → Vendor Validation → Returned → Resubmitted → Legal → Procurement → Rejected,1,413.69,72.64,1,1,0.011764705882352941
+Submitted → Vendor Validation → Legal → Procurement → Rejected,1,719.52,46.2,1,1,0.011764705882352941
+Submitted → Manager → Vendor Validation → Security → Legal → Payment → PO Created,1,1974.37,64.17,1,1,0.011764705882352941
+Submitted → Vendor Validation → Legal → Finance → PO Created → Payment,1,10493.12,57.56,1,1,0.011764705882352941
+Submitted → Manager → Vendor Validation → Security → Procurement → Bid Confirmed → PO Created → Payment,1,23455.65,102.14,1,1,0.011764705882352941
+Submitted → Security → Procurement → PO Created → Payment,1,943.93,32.94,1,1,0.011764705882352941
+Submitted → Security → Legal → Procurement → PO Created → Payment,1,454.22,46.76,1,1,0.011764705882352941
+Submitted → Manager → Director → Legal → Procurement → Finance → PO Created → Payment,1,67505.71,62.06,1,1,0.011764705882352941
+Submitted → Director → Bid Confirmed → PO Created → Payment,1,28820.03,43.5,1,1,0.011764705882352941
+Submitted → Manager → Vendor Validation → Security → Legal → Procurement → Bid Confirmed → PO Created → Payment,1,22331.42,118.44,1,1,0.011764705882352941
+Submitted → Vendor Validation → Security → Bid Confirmed → Finance → PO Created → Payment,1,20898.79,72.37,1,1,0.011764705882352941
+Submitted → Manager → Vendor Validation → Security → Legal → Finance → PO Created → Payment,1,12603.85,78.25,1,1,0.011764705882352941
+Submitted → Manager → Director → Legal → Procurement → Bid Confirmed → Finance → Rejected,1,160000.0,56.55,1,1,0.011764705882352941
+Submitted → Vendor Validation → Returned → Resubmitted → Security → Procurement → PO Created → Payment,1,808.04,141.63,1,1,0.011764705882352941
+Submitted → Manager → Exception → Finance → Payment → PO Created,1,21245.97,44.33,1,1,0.011764705882352941
+Submitted → Manager → Vendor Validation → Procurement → Bid Confirmed → PO Created → Payment,1,21957.98,48.39,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Legal → Procurement → Bid Confirmed → Finance → PO Created → Payment,1,69977.02,93.27,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Exception → Finance → PO Created → Payment,1,22858.73,174.01,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Vendor Validation → Security → Bid Confirmed → Finance → PO Created → Payment,1,44909.23,164.74,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Vendor Validation → Procurement → Exception → Finance → Rejected,1,36981.26,87.74,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Vendor Validation → Procurement → Bid Confirmed → PO Created → Payment,1,36879.76,98.85,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Vendor Validation → Procurement → Bid Confirmed → Finance → Rejected,1,29801.82,139.1,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Vendor Validation → Legal → Procurement → Bid Confirmed → Finance → PO Created → Payment,1,55578.56,159.51,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Vendor Validation → Bid Confirmed → Finance → PO Created → Payment,1,26883.45,132.15,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Security → Legal → Exception → Finance → PO Created → Payment,1,59890.47,124.94,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Security → Bid Confirmed → Finance → PO Created → Payment,1,29740.26,100.86,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Procurement → Finance → PO Created → Payment,1,32495.0,115.67,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Procurement → Exception → Finance → PO Created → Payment,1,33751.52,115.47,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Legal → Procurement → Exception → Finance → PO Created → Payment,1,53971.62,124.72,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Legal → Bid Confirmed → Finance → PO Created → Payment,1,104332.16,146.5,1,1,0.011764705882352941
+Submitted → Manager → Director → Vendor Validation → Security → Bid Confirmed → Finance → Rejected,1,88714.52,64.31,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Finance → PO Created → Payment,1,29582.06,120.99,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Director → Exception → Finance → PO Created → Payment,1,30141.65,75.48,1,1,0.011764705882352941
+Submitted → Manager → Director → Vendor Validation → Security → Exception → Finance → Rejected,1,32370.89,181.05,1,1,0.011764705882352941
+Submitted → Manager → Director → Vendor Validation → Security → Finance → PO Created → Payment,1,26739.45,79.45,1,1,0.011764705882352941
+Submitted → Manager → Procurement → Payment → PO Created,1,3148.68,59.12,1,1,0.011764705882352941
+Submitted → Manager → Procurement → Exception → Finance → Rejected,1,21217.51,75.42,1,1,0.011764705882352941
+Submitted → Manager → Director → Vendor Validation → Security → Procurement → Bid Confirmed → PO Created → Payment,1,32850.6,99.6,1,1,0.011764705882352941
+Submitted → Manager → Legal → Procurement → Rejected,1,9731.59,43.65,1,1,0.011764705882352941
+Submitted → Manager → Legal → Procurement → Payment → PO Created,1,1823.89,124.25,1,1,0.011764705882352941
+Submitted → Manager → Legal → Procurement → Exception → Finance → PO Created → Payment,1,20041.0,58.3,1,1,0.011764705882352941
+Submitted → Manager → Director → Vendor Validation → Security → Procurement → Exception → Finance → Rejected,1,46808.73,73.96,1,1,0.011764705882352941
+Submitted → Manager → Director → Vendor Validation → Security → Procurement → Finance → PO Created → Payment,1,29173.85,101.71,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Exception → Finance → Rejected,1,20467.26,124.19,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Finance → Rejected,1,10814.6,36.24,1,1,0.011764705882352941
+Submitted → Manager → Director → Procurement → Exception → Finance → Rejected,1,28011.14,95.27,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Security → Procurement → Finance → PO Created → Payment,1,16541.66,97.86,1,1,0.011764705882352941
+Submitted → Manager → Director → Procurement → Exception → PO Created → Payment,1,26911.34,72.82,1,1,0.011764705882352941
+Submitted → Manager → Vendor Validation → Legal → Finance → Payment → PO Created,1,13438.74,159.47,1,1,0.011764705882352941
+Submitted → Manager → Director → Security → Legal → Finance → PO Created → Payment,1,62270.44,62.26,1,1,0.011764705882352941
+Submitted → Manager → Security → Procurement → Rejected,1,1715.24,53.38,1,1,0.011764705882352941
+Submitted → Manager → Director → Security → Procurement → Bid Confirmed → Finance → PO Created → Payment,1,29871.36,123.99,1,1,0.011764705882352941
+Submitted → Manager → Security → Procurement → Bid Confirmed → Finance → PO Created → Payment,1,22296.68,106.89,1,1,0.011764705882352941
+Submitted → Manager → Security → Legal → Finance → Rejected,1,18031.78,106.8,1,1,0.011764705882352941
+Submitted → Manager → Director → Vendor Validation → Legal → Exception → Finance → PO Created → Payment,1,51945.51,125.34,1,1,0.011764705882352941
+Submitted → Manager → Director → Vendor Validation → Legal → Procurement → Bid Confirmed → Finance → Rejected,1,70563.52,79.41,1,1,0.011764705882352941
+Submitted → Manager → Security → Bid Confirmed → Rejected,1,20457.14,39.27,1,1,0.011764705882352941
+Submitted → Manager → Security → Bid Confirmed → PO Created → Payment,1,24852.75,76.92,1,1,0.011764705882352941
+Submitted → Manager → Security → Bid Confirmed → Finance → Payment → PO Created,1,20391.21,109.28,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Security → Procurement → Bid Confirmed → Finance → PO Created → Payment,1,24445.93,102.78,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Legal → PO Created → Payment,1,1954.22,64.16,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Security → Legal → Procurement → Finance → PO Created → Payment,1,16728.42,198.01,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Security → Finance → PO Created → Payment,1,18509.64,68.58,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Security → Bid Confirmed → PO Created → Payment,1,20046.92,116.91,1,1,0.011764705882352941
+Submitted → Manager → Director → Vendor Validation → Procurement → Bid Confirmed → Finance → Rejected,1,43500.71,83.1,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Legal → Procurement → Finance → PO Created → Payment,1,19257.79,117.08,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Legal → Procurement → Bid Confirmed → Finance → PO Created → Payment,1,77753.03,140.17,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Vendor Validation → Finance → Rejected,1,16638.1,118.55,1,1,0.011764705882352941
+Submitted → Director → Bid Confirmed → Finance → PO Created → Payment,1,28294.78,128.48,1,1,0.011764705882352941
+Submitted → Manager → Director → Vendor Validation → Procurement → Exception → Finance → Rejected,1,38544.89,69.84,1,1,0.011764705882352941
+Submitted → Manager → Director → Vendor Validation → Procurement → Finance → PO Created → Payment,1,25118.99,94.69,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Procurement → Bid Confirmed → PO Created → Payment,1,24863.36,153.47,1,1,0.011764705882352941
+Submitted → Manager → Returned → Resubmitted → Procurement → Bid Confirmed → Finance → Rejected,1,23199.49,105.98,1,1,0.011764705882352941
+Submitted → Manager → Security → Legal → Finance → PO Created → Payment,1,16429.58,74.01,1,1,0.011764705882352941

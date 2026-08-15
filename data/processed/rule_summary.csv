@@ -1,0 +1,19 @@
+rule_id,rule_name,rule_description,required_step,severity,policy_owner,applicable_transactions,violations,compliance_pct,affected_value
+RULE-001,Manager approval,"Purchases of $1,000 or more require manager approval.",Manager Approval,Low,Finance Operations,7883,288,96.35,2606591.5
+RULE-002,Finance approval,"Purchases above $10,000 require Finance approval.",Finance Approval,High,CFO,2267,128,94.35,3073385.54
+RULE-003,Director approval,"Purchases above $25,000 require Director approval.",Director Approval,High,CFO,583,34,94.17,1413849.32
+RULE-004,Software security review,Software and AI service purchases require Security review.,Security Review,Critical,Information Security,2628,355,86.49,3043931.75
+RULE-005,High-value contract review,"Contracts above $50,000 require Legal review.",Legal Review,Critical,Legal,131,17,87.02,1081368.53
+RULE-006,Unapproved vendor review,Unapproved vendors require Procurement review.,Procurement Review,High,VP Procurement,1935,210,89.15,1956451.26
+RULE-007,Competitive bid evidence,"Purchases above $20,000 require competitive bids or an approved exception.",Competitive Bid Confirmed,High,VP Procurement,857,68,92.07,2360153.39
+RULE-008,Approval authorization,Approvers may not authorize purchases above their approval limit.,AUTHORIZED_APPROVER,Critical,Internal Audit,7883,168,97.87,2962491.39
+RULE-009,Segregation of duties,The requester may not approve their own purchase.,NO_SELF_APPROVAL,Critical,Internal Audit,7883,190,97.59,1878637.77
+RULE-010,Vendor validation,Unapproved or high-risk vendors require Vendor Validation.,Vendor Validation,High,Vendor Management,2707,311,88.51,2674063.44
+RULE-011,Documented exception,Every approved exception requires supporting documentation.,DOCUMENTED_EXCEPTION,High,Internal Audit,0,0,100.0,0.0
+RULE-012,PO before payment,A purchase order must be created before payment is authorized.,PO_BEFORE_PAYMENT,Critical,Finance Operations,7779,59,99.24,412426.34
+RULE-013,International vendor legal review,High-risk international vendors require Legal review.,Legal Review,High,Legal,556,34,93.88,182672.3
+RULE-014,High-risk security review,All high-risk technology vendors require Security review.,Security Review,Critical,Information Security,657,66,89.95,514294.61
+RULE-015,Contractor procurement review,Contractor engagements require Procurement review.,Procurement Review,High,VP Procurement,1158,122,89.46,1837793.0
+RULE-016,Travel finance threshold,"Travel requires Finance approval above $7,500 before July and $5,000 after the system update.",Finance Approval,Medium,Finance Operations,154,15,90.26,108375.66
+RULE-017,Urgent purchase rationale,Urgent purchases require a documented exception rationale.,DOCUMENTED_URGENCY,Medium,Finance Operations,765,65,91.5,738839.21
+RULE-018,Equipment dual control,"Equipment purchases above $30,000 require both Finance and Procurement review.",DUAL_CONTROL,High,Finance Operations,72,57,20.83,2862820.72

@@ -1,0 +1,141 @@
+vendor_id,vendor_name,vendor_category,approved_vendor,risk_level,contract_status,country
+VEN-001,AIServices Partner 001,AI Services,True,Low,Active,United States
+VEN-002,ProfessionalServices Partner 002,Professional Services,False,Medium,Active,United States
+VEN-003,Contractor Partner 003,Contractor,True,Low,Active,United States
+VEN-004,Software Partner 004,Software,True,High,Active,United States
+VEN-005,Equipment Partner 005,Equipment,True,Medium,Active,United States
+VEN-006,Software Partner 006,Software,True,High,Active,United States
+VEN-007,Software Partner 007,Software,True,Medium,Active,Singapore
+VEN-008,Equipment Partner 008,Equipment,True,High,Active,United States
+VEN-009,Software Partner 009,Software,True,Medium,Pending,United States
+VEN-010,Software Partner 010,Software,True,Low,Expired,United States
+VEN-011,Equipment Partner 011,Equipment,True,Low,Active,United States
+VEN-012,Contractor Partner 012,Contractor,True,Low,Active,United Kingdom
+VEN-013,ProfessionalServices Partner 013,Professional Services,True,High,Active,India
+VEN-014,Travel Partner 014,Travel,True,Medium,Active,United States
+VEN-015,ProfessionalServices Partner 015,Professional Services,False,High,Active,United Kingdom
+VEN-016,Equipment Partner 016,Equipment,False,Medium,Active,United States
+VEN-017,Equipment Partner 017,Equipment,True,Low,Active,United States
+VEN-018,Travel Partner 018,Travel,False,Medium,Pending,United Kingdom
+VEN-019,Facilities Partner 019,Facilities,True,High,Active,Ireland
+VEN-020,Travel Partner 020,Travel,True,Low,Active,United States
+VEN-021,AIServices Partner 021,AI Services,True,Medium,Pending,Germany
+VEN-022,Software Partner 022,Software,True,Low,Active,United States
+VEN-023,Contractor Partner 023,Contractor,False,Medium,Active,United States
+VEN-024,Contractor Partner 024,Contractor,True,Low,Pending,United States
+VEN-025,AIServices Partner 025,AI Services,True,Medium,Pending,Germany
+VEN-026,AIServices Partner 026,AI Services,True,Low,Active,United States
+VEN-027,Equipment Partner 027,Equipment,False,High,Active,United States
+VEN-028,Software Partner 028,Software,False,Medium,Active,United States
+VEN-029,Software Partner 029,Software,True,Medium,Expired,United States
+VEN-030,Software Partner 030,Software,True,High,Active,United States
+VEN-031,Travel Partner 031,Travel,True,Medium,Pending,United States
+VEN-032,Software Partner 032,Software,True,Low,Active,Germany
+VEN-033,Travel Partner 033,Travel,True,Low,Active,United States
+VEN-034,Facilities Partner 034,Facilities,False,Low,Expired,United States
+VEN-035,ProfessionalServices Partner 035,Professional Services,False,High,Active,United States
+VEN-036,Travel Partner 036,Travel,True,Low,Active,United States
+VEN-037,Travel Partner 037,Travel,True,Low,Active,United States
+VEN-038,Travel Partner 038,Travel,True,High,Active,United States
+VEN-039,Contractor Partner 039,Contractor,True,Low,Active,Ireland
+VEN-040,Software Partner 040,Software,True,Low,Pending,United States
+VEN-041,Contractor Partner 041,Contractor,True,Low,Active,United States
+VEN-042,Travel Partner 042,Travel,True,Medium,Active,United States
+VEN-043,Facilities Partner 043,Facilities,True,High,Active,United States
+VEN-044,Facilities Partner 044,Facilities,False,Medium,Active,Canada
+VEN-045,Facilities Partner 045,Facilities,True,Low,Active,Ireland
+VEN-046,ProfessionalServices Partner 046,Professional Services,True,Medium,Active,Canada
+VEN-047,Software Partner 047,Software,False,Medium,Active,United States
+VEN-048,Facilities Partner 048,Facilities,True,Medium,Active,Canada
+VEN-049,Software Partner 049,Software,True,Low,Active,Canada
+VEN-050,Equipment Partner 050,Equipment,True,Low,Active,United States
+VEN-051,ProfessionalServices Partner 051,Professional Services,True,Low,Active,Canada
+VEN-052,Equipment Partner 052,Equipment,True,Low,Pending,United States
+VEN-053,Travel Partner 053,Travel,True,Medium,Active,United States
+VEN-054,Contractor Partner 054,Contractor,True,Low,Active,United States
+VEN-055,Software Partner 055,Software,True,Low,Active,Canada
+VEN-056,AIServices Partner 056,AI Services,True,Low,Active,Canada
+VEN-057,Facilities Partner 057,Facilities,True,Low,Active,United States
+VEN-058,Software Partner 058,Software,True,Low,Active,United States
+VEN-059,Facilities Partner 059,Facilities,True,Low,Active,United States
+VEN-060,Equipment Partner 060,Equipment,False,Medium,Active,United States
+VEN-061,Facilities Partner 061,Facilities,True,Low,Expired,United States
+VEN-062,Travel Partner 062,Travel,True,Low,Active,United States
+VEN-063,Equipment Partner 063,Equipment,True,Low,Active,United States
+VEN-064,Travel Partner 064,Travel,True,Medium,Active,United States
+VEN-065,Contractor Partner 065,Contractor,True,Low,Pending,United States
+VEN-066,Contractor Partner 066,Contractor,False,High,Pending,United States
+VEN-067,Facilities Partner 067,Facilities,True,Low,Active,United States
+VEN-068,Equipment Partner 068,Equipment,False,Low,Active,United States
+VEN-069,Facilities Partner 069,Facilities,True,Low,Active,United States
+VEN-070,Equipment Partner 070,Equipment,False,Medium,Active,United Kingdom
+VEN-071,Software Partner 071,Software,True,Low,Expired,Germany
+VEN-072,Software Partner 072,Software,True,Low,Active,India
+VEN-073,Software Partner 073,Software,False,High,Active,India
+VEN-074,AIServices Partner 074,AI Services,False,Low,Active,United States
+VEN-075,Software Partner 075,Software,False,High,Active,United States
+VEN-076,ProfessionalServices Partner 076,Professional Services,True,Low,Active,United States
+VEN-077,Software Partner 077,Software,True,Medium,Active,United States
+VEN-078,Software Partner 078,Software,True,Low,Active,United States
+VEN-079,ProfessionalServices Partner 079,Professional Services,True,Low,Active,United Kingdom
+VEN-080,Software Partner 080,Software,True,Low,Active,Ireland
+VEN-081,Equipment Partner 081,Equipment,True,Medium,Active,United States
+VEN-082,ProfessionalServices Partner 082,Professional Services,True,Medium,Active,United States
+VEN-083,ProfessionalServices Partner 083,Professional Services,True,High,Active,United Kingdom
+VEN-084,Contractor Partner 084,Contractor,True,Low,Active,United Kingdom
+VEN-085,AIServices Partner 085,AI Services,True,High,Active,United States
+VEN-086,Software Partner 086,Software,True,Medium,Pending,United States
+VEN-087,Facilities Partner 087,Facilities,True,Low,Active,United States
+VEN-088,Contractor Partner 088,Contractor,False,High,Active,United States
+VEN-089,Software Partner 089,Software,True,Low,Pending,Canada
+VEN-090,Equipment Partner 090,Equipment,True,Low,Active,United States
+VEN-091,Software Partner 091,Software,True,Low,Pending,United States
+VEN-092,Contractor Partner 092,Contractor,False,High,Pending,United States
+VEN-093,AIServices Partner 093,AI Services,True,Low,Active,United States
+VEN-094,Equipment Partner 094,Equipment,True,High,Pending,United States
+VEN-095,Equipment Partner 095,Equipment,True,Low,Active,United States
+VEN-096,Equipment Partner 096,Equipment,False,Medium,Active,Canada
+VEN-097,Contractor Partner 097,Contractor,True,Low,Expired,India
+VEN-098,Software Partner 098,Software,True,Medium,Active,United States
+VEN-099,Software Partner 099,Software,True,Low,Active,United States
+VEN-100,Travel Partner 100,Travel,True,Low,Active,United States
+VEN-101,Software Partner 101,Software,False,High,Active,United States
+VEN-102,Travel Partner 102,Travel,False,High,Expired,United States
+VEN-103,AIServices Partner 103,AI Services,True,Low,Active,India
+VEN-104,Software Partner 104,Software,True,Low,Active,United States
+VEN-105,ProfessionalServices Partner 105,Professional Services,True,Low,Active,United States
+VEN-106,Contractor Partner 106,Contractor,False,High,Active,United States
+VEN-107,Facilities Partner 107,Facilities,True,Medium,Active,United States
+VEN-108,Equipment Partner 108,Equipment,True,Low,Active,United States
+VEN-109,Travel Partner 109,Travel,False,Low,Active,Canada
+VEN-110,Equipment Partner 110,Equipment,True,Medium,Active,United States
+VEN-111,Travel Partner 111,Travel,True,Medium,Active,United States
+VEN-112,Contractor Partner 112,Contractor,True,Medium,Active,United States
+VEN-113,Equipment Partner 113,Equipment,False,High,Active,Singapore
+VEN-114,Software Partner 114,Software,True,Low,Pending,India
+VEN-115,AIServices Partner 115,AI Services,True,Low,Active,United States
+VEN-116,Software Partner 116,Software,True,Medium,Active,United States
+VEN-117,Facilities Partner 117,Facilities,True,Medium,Active,United States
+VEN-118,Software Partner 118,Software,True,Low,Active,United States
+VEN-119,Facilities Partner 119,Facilities,True,High,Active,India
+VEN-120,AIServices Partner 120,AI Services,True,Low,Expired,United States
+VEN-121,Contractor Partner 121,Contractor,True,High,Pending,United States
+VEN-122,Travel Partner 122,Travel,False,High,Active,Germany
+VEN-123,Travel Partner 123,Travel,False,Medium,Active,United States
+VEN-124,Software Partner 124,Software,True,Medium,Active,United Kingdom
+VEN-125,Software Partner 125,Software,True,Medium,Active,United States
+VEN-126,Software Partner 126,Software,True,Low,Active,United States
+VEN-127,Facilities Partner 127,Facilities,True,Low,Active,India
+VEN-128,AIServices Partner 128,AI Services,False,Low,Active,Singapore
+VEN-129,Equipment Partner 129,Equipment,False,High,Active,United States
+VEN-130,Software Partner 130,Software,True,Low,Active,United States
+VEN-131,Software Partner 131,Software,True,Low,Active,United States
+VEN-132,ProfessionalServices Partner 132,Professional Services,True,Medium,Active,United States
+VEN-133,Software Partner 133,Software,True,Low,Active,United States
+VEN-134,Software Partner 134,Software,True,Low,Active,United States
+VEN-135,Equipment Partner 135,Equipment,True,Low,Active,United States
+VEN-136,Contractor Partner 136,Contractor,True,Medium,Expired,Canada
+VEN-137,Contractor Partner 137,Contractor,True,Medium,Active,Canada
+VEN-138,Contractor Partner 138,Contractor,True,Medium,Active,Canada
+VEN-139,Software Partner 139,Software,True,Low,Active,Germany
+VEN-140,Equipment Partner 140,Equipment,True,Low,Active,United States
